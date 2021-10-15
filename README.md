@@ -8,3 +8,6 @@ https://projectworlds.in/python-projects-with-source-code/bank-management-system
 
 ## django web application list
 https://www.ordinarycoders.com/blog/article/django-projects-github
+
+## django affiate marketing web application code link 
+https://github.com/goldminer1030/django-affiliate-marketing
