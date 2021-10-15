@@ -1,4 +1,4 @@
-# My-eb-deveopment-resources
+# My-web-deveopment-resources
 
 # 140 Python Projects with Source Code
 https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
@@ -14,3 +14,5 @@ https://itsourcecode.com/sdm_downloads/portfolio-management-system-project-in-dj
 
 ## django affiate marketing web application code link 
 https://github.com/goldminer1030/django-affiliate-marketing
+
+## frontEndMentor & codepen website for exploring designs
