@@ -16,3 +16,6 @@ https://itsourcecode.com/sdm_downloads/portfolio-management-system-project-in-dj
 https://github.com/goldminer1030/django-affiliate-marketing
 
 ## frontEndMentor & codepen website for exploring designs
+
+## dash for analytica and charts showcase
+https://plotly.com/dash/
