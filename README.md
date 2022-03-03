@@ -19,3 +19,6 @@ https://github.com/goldminer1030/django-affiliate-marketing
 
 ## dash for analytica and charts showcase
 https://plotly.com/dash/
+
+## for security in djnago
+https://www.django-cms.org/en/blog/2022/02/22/security-enhancements-for-django-cms/
