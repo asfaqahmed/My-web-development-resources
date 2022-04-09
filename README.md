@@ -22,3 +22,5 @@ https://plotly.com/dash/
 
 ## for security in djnago
 https://www.django-cms.org/en/blog/2022/02/22/security-enhancements-for-django-cms/
+
+## django Jobs : search  Django Job Portalin Django documents
