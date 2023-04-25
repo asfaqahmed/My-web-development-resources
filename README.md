@@ -26,30 +26,30 @@ https://www.django-cms.org/en/blog/2022/02/22/security-enhancements-for-django-c
 ## django Jobs : search  Django Job Portalin Django documents
 
 
-##Laravel projects cloning in github
-# clone the repo
+#Laravel projects cloning in github
+## clone the repo
 git clone https://github.com/devzakir/laravel-complete-blog-development.git laravel-blog
 
-# install composer dependency
+## install composer dependency
 composer install
 
-# create a environment file
+## create a environment file
 cp .env.example .env
 
-# set the Application key
+## set the Application key
 php artisan key:generate
 
-# comment database query in AppServiceProvider.php like this
+## comment database query in AppServiceProvider.php like this
 // $categories = Category::take(5)->get();
 // View::share('categories', $categories);
 
 // $setting = Setting::first();
 // View::share('setting', $setting);
 
-# setup the database credentials and migrate database with seeders
+## setup the database credentials and migrate database with seeders
 php artisan migrate --seed
 
-# enable the database query code in AppServiceProvider.php like this
+## enable the database query code in AppServiceProvider.php like this
 $categories = Category::take(5)->get();
 View::share('categories', $categories);
 
