@@ -33,6 +33,9 @@ git clone https://github.com/devzakir/laravel-complete-blog-development.git lara
 ## install composer dependency
 composer install
 
+when you get conflict in composer packages try this command
+##composer install --ignore-platform-reqs
+
 ## create a environment file
 cp .env.example .env
 
