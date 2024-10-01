@@ -3,6 +3,9 @@
 # 140 Python Projects with Source Code
 https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
 
+# another projects download website
+https://codeastro.com/
+
 ## python project download website
 https://projectworlds.in/python-projects-with-source-code/bank-management-system-project-in-python/
 
