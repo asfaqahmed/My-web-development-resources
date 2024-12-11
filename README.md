@@ -3,7 +3,7 @@
 # 140 Python Projects with Source Code
 https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac
 
-# another projects download website
+# another projects download website - checked this website we can download code easily
 https://codeastro.com/
 
 ## python project download website
