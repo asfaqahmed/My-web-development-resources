@@ -61,3 +61,5 @@ View::share('categories', $categories);
 
 $setting = Setting::first();
 View::share('setting', $setting);
+
+//test
